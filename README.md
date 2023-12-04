@@ -10,6 +10,7 @@
 
 ## Topologi
 ![Screenshot 2023-11-28 235649](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/107459188/33de07cf-9aed-48fc-b54b-8742f90313ed)
+
 Pertama-tama, melakukan pembagian rute sesuai dengan topologi yang diberikan.
 
 ### Pembagian Rute
@@ -28,6 +29,7 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 #### Pembagian IP
 Berikut adalah hasil dari pembagian IP yang telah kami peroleh dari hasil pemecahan tadi menjadi jaringan yang lebih kecil.
 ![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/107459188/24658828-22c6-41a4-b5a0-6288db7e7e0f)
+
 Setelah melakukan pembagian IP, lakukan konfigurasi pada masing-masing node,server, dan client sesuai dengan pembagian subnet tadi yang sudah dilakukan.
 
 #### Routing
