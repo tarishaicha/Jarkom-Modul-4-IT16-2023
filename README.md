@@ -5,7 +5,7 @@
 - Evan Darya Kusuma (5027211069)
 
 ## Daftar Isi
-- [CPT-VLSM](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/tree/main#cpt--vlsm)
+- [CPT-VLSM](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/tree/main#cpt-vlsm)
 - [GNS-CIDR](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/tree/main#gns-cidr)
 
 ## Topologi
