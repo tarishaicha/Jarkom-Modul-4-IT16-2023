@@ -40,7 +40,7 @@ Setelah dilakukan konfigurasi pada masing-masing node,server, dan client. Lalu, 
 ![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/107459188/05a12f3a-7989-4020-83f6-ed530a72ebea)
 Dapat dilihat seluruh percobaan telah sukses.
 
-### GNS - CIDR
+### GNS-CIDR
 
 #### Penggabungan
 Dari Rute yeang telah dibuat maka akan di gabunggungka hingga hanya tersisa 1, Penggabunganya antara lain
