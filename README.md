@@ -40,5 +40,23 @@ Setelah dilakukan konfigurasi pada masing-masing node,server, dan client. Lalu, 
 ![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/107459188/05a12f3a-7989-4020-83f6-ed530a72ebea)
 Dapat dilihat seluruh percobaan telah sukses.
 
+### GNS - CIDR
+
+#### Penggabungan
+Dari Rute yeang telah dibuat maka akan di gabunggungka hingga hanya tersisa 1, Penggabunganya antara lain
+![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/102363994/40b16809-036d-4215-a8b4-af17c0f516f0)
+![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/102363994/a40909bb-7b66-44d7-a0bd-a797e5be05c6)
+![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/102363994/65463b42-441f-4e0b-9a83-b04fb1fd8c3f)
 
 
+#### Pembuatan Tree 
+Setelah melakukan Penggabungan maka akan dibuat sebuah tree, dimana bentuknya seperti ini
+![TreeChartCIDR_IT16 (1)](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/102363994/aa4e8d8d-b957-47dd-949f-e641a80b1236)
+
+#### Pembagian IP
+Setelah membuat Tree, akan dihitung untuk pembagian IP dari masing masing rute nya
+![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/102363994/3022f1ab-96d2-4e8d-9fe8-8d27ae9761e6)
+![image](https://github.com/tarishaicha/Jarkom-Modul-4-IT16-2023/assets/102363994/0fbfa2c4-8650-4014-910f-e7d729558f2c)
+
+#### Setup Routing GNS 
+masih belum bisa
